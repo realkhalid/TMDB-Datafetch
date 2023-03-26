@@ -6,3 +6,7 @@
     display: flex;
     margin-bottom: 10px;
 }
+
+.row::-webkit-scrollbar {
+    display: none;
+}

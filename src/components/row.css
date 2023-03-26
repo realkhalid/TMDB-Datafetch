@@ -1,0 +1,8 @@
+.row {
+    height: 20vh;
+    width: 100%;
+    background-color: rgb(59, 59, 59);
+    overflow: scroll;
+    display: flex;
+    margin-bottom: 10px;
+}
